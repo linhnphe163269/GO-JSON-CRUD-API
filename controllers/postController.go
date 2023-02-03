@@ -1,10 +1,9 @@
 package controllers
 
 import (
-	"GO-JSON-CRUD-API/initializers"
-	"GO-JSON-CRUD-API/models"
-
 	"github.com/gin-gonic/gin"
+	"github.com/linhnphe163269/GO-JSON-CRUD-API/initializers"
+	"github.com/linhnphe163269/GO-JSON-CRUD-API/models"
 )
 
 func PostCreate(c *gin.Context) {

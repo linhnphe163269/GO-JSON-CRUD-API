@@ -1,4 +1,4 @@
-module GO-JSON-CRUD-API
+module github.com/linhnphe163269/GO-JSON-CRUD-API
 
 go 1.19
 

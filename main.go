@@ -1,10 +1,9 @@
 package main
 
 import (
-	"GO-JSON-CRUD-API/controllers"
-	"GO-JSON-CRUD-API/initializers"
-
 	"github.com/gin-gonic/gin"
+	"github.com/linhnphe163269/GO-JSON-CRUD-API/controllers"
+	"github.com/linhnphe163269/GO-JSON-CRUD-API/initializers"
 )
 
 func init() {
